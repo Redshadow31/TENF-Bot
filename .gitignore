@@ -1,0 +1,13 @@
+**/.idea
+**/.vscode
+**/node_modules
+**/*.iml
+**/.directory
+*/logs
+**/dist
+**/coverage
+**/config/config.toml
+**/test-results.xml
+.run
+mqtt5
+bdd
