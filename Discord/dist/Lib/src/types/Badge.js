@@ -1,0 +1,35 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Badge = void 0;
+var Badge;
+(function (Badge) {
+    Badge["BEST_V1_PLAYER"] = "top_v1_player";
+    Badge["TOP_10_V1"] = "top_10_v1";
+    Badge["BOT_OWNER"] = "bot_owner";
+    Badge["TECHNICAL_TEAM"] = "technical_team";
+    Badge["TOP_GLORY"] = "top_glory";
+    Badge["SUPPORT"] = "support";
+    Badge["CONTEST"] = "contest";
+    Badge["DONOR"] = "donor";
+    Badge["MAJOR_BUG_REPORTER"] = "major_bug_reporter";
+    Badge["RANDOM"] = "random";
+    Badge["FIRST_20_MEMBERS"] = "first_20_members";
+    Badge["TOP_1_BEFORE_RESET"] = "top_1_before_reset";
+    Badge["RICH"] = "rich";
+    Badge["ADVERTISER"] = "advertiser";
+    Badge["REDACTOR"] = "redactor";
+    Badge["TRANSLATOR"] = "translator";
+    Badge["TOP_WEEK"] = "top_week";
+    Badge["CHRISTMAS"] = "christmas";
+    Badge["FUNNY"] = "funny";
+    Badge["POWERFUL_GUILD"] = "powerful_guild";
+    Badge["VERY_POWERFUL_GUILD"] = "very_powerful_guild";
+    Badge["TOURNAMENT_WINNER"] = "tournament_winner";
+    Badge["EARLY_CLASS_ADOPTER"] = "early_class_adopter";
+    Badge["LEGENDARY_PET"] = "legendary_pet";
+    Badge["MISSION_COMPLETER"] = "mission_completer";
+    Badge["GOOD_BUG_REPORTER"] = "good_bug_reporter";
+    Badge["VOTER"] = "voter";
+    Badge["ANIMAL_LOVER"] = "animal_lover";
+})(Badge || (exports.Badge = Badge = {}));
+//# sourceMappingURL=Badge.js.map
