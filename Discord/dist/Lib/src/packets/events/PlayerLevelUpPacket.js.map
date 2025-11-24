@@ -1,0 +1,1 @@
+{"version":3,"file":"PlayerLevelUpPacket.js","sourceRoot":"","sources":["../../../../../../Lib/src/packets/events/PlayerLevelUpPacket.ts"],"names":[],"mappings":";;;;;;;;;AAAA,sDAE2B;AAGpB,IAAM,mBAAmB,GAAzB,MAAM,mBAAoB,SAAQ,+BAAc;CA0BtD,CAAA;AA1BY,kDAAmB;8BAAnB,mBAAmB;IAD/B,IAAA,+BAAc,EAAC,gCAAe,CAAC,aAAa,CAAC;GACjC,mBAAmB,CA0B/B"}
