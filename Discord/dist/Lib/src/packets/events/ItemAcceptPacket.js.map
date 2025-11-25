@@ -1,1 +1,0 @@
-{"version":3,"file":"ItemAcceptPacket.js","sourceRoot":"","sources":["../../../../../../Lib/src/packets/events/ItemAcceptPacket.ts"],"names":[],"mappings":";;;;;;;;;AAAA,sDAE2B;AAIpB,IAAM,gBAAgB,GAAtB,MAAM,gBAAiB,SAAQ,+BAAc;CAEnD,CAAA;AAFY,4CAAgB;2BAAhB,gBAAgB;IAD5B,IAAA,+BAAc,EAAC,gCAAe,CAAC,aAAa,CAAC;GACjC,gBAAgB,CAE5B"}

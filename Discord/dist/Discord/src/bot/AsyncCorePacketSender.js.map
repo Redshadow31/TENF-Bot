@@ -1,1 +1,0 @@
-{"version":3,"file":"AsyncCorePacketSender.js","sourceRoot":"","sources":["../../../../src/bot/AsyncCorePacketSender.ts"],"names":[],"mappings":";;;AAAA,kFAA+E;AAI/E,sDAAmD;AAEnD,MAAa,qBAAsB,SAAQ,qCAAiB;IACjD,UAAU,CAAC,OAAsB,EAAE,MAAsB;QAClE,yBAAW,CAAC,mBAAmB,CAAC,OAAO,EAAE,MAAM,CAAC,CAAC;QACjD,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;IAC1B,CAAC;CACD;AALD,sDAKC"}
